@@ -35,12 +35,12 @@ A modern, responsive Todo application built with React and Tailwind CSS, featuri
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/parasfullstackdev/min-project.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd react1
+cd min-project
 ```
 
 3. Install dependencies:
@@ -81,13 +81,19 @@ The app will be available at `http://localhost:5173`
 
 ## 🤝 Contributing
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Contributions are welcome! Feel free to:
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-Currently, two official plugins are available:
+## 📝 License
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is open source and available under the [MIT License](LICENSE).
 
-## Expanding the ESLint configuration
+## 🙏 Acknowledgments
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js team for the amazing framework
+- Tailwind CSS for the utility-first CSS framework
+- All contributors and users of this application
